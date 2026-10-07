@@ -15,5 +15,10 @@ public class charsequence {
         System.out.println("After trim the string is: "+s3.trim());
 
 
+
+        String s4 = "hello";
+        System.out.println("String: "+s4);
+
+
     }
 }
